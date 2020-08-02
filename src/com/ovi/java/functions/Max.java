@@ -1,4 +1,4 @@
-package com.MyPackage.java;
+package com.ovi.java.functions;
 
 import java.util.Scanner;
 public class Max {

@@ -1,4 +1,4 @@
-package com.MyPackage.java;
+package com.ovi.java.functions;
 
 public class arithmeticOperators {
     public static void main(String args[])

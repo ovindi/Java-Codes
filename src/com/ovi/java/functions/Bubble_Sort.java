@@ -1,4 +1,4 @@
-package com.MyPackage.java;
+package com.ovi.java.functions;
 
 public class Bubble_Sort {
     void swap(int num[]){
